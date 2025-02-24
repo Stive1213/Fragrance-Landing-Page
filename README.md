@@ -20,7 +20,7 @@ To run this project locally:
 
 Clone the Repository:
 
-git clone https://github.com/your-username/fragrance-landing-page.git
+git clone https://github.com/stive1213/fragrance-landing-page.git
 Navigate to the Directory:
 
 cd fragrance-landing-page
